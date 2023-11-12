@@ -1,0 +1,5 @@
+﻿  源.c
+C:\Users\hfqiang\Desktop\存储\C ( Learn )\Project22\源.c(7,10): warning C4476: "scanf_s": 格式说明符中的类型字段字符“ ”未知
+C:\Users\hfqiang\Desktop\存储\C ( Learn )\Project22\源.c(7,24): warning C4474: scanf_s: 格式字符串中传递的参数太多
+C:\Users\hfqiang\Desktop\存储\C ( Learn )\Project22\源.c(7,24): message : 占位符和其参数预计 0 可变参数，但提供的却是 2 参数
+  Project22.vcxproj -> C:\Users\hfqiang\Desktop\存储\C ( Learn )\Project22\x64\Debug\Project22.exe

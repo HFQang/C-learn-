@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\hfqiang\Desktop\存储\C ( Learn )\Project16\Project16\源.c(13,18): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\hfqiang\Desktop\存储\C ( Learn )\Project16\Project16\源.c(13,18): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  Project16.vcxproj -> C:\Users\hfqiang\Desktop\存储\C ( Learn )\Project16\x64\Debug\Project16.exe
