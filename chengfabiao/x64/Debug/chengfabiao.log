@@ -1,0 +1,3 @@
+﻿  源.c
+D:\vs\C ( Learn )\chengfabiao\源.c(6,8): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  chengfabiao.vcxproj -> D:\vs\C ( Learn )\chengfabiao\x64\Debug\chengfabiao.exe
