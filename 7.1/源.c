@@ -21,7 +21,7 @@ int main(void)
 	}
 	for (i = 0; i < 3; i++)
 	{
-		if (stud[i].b == a[1])		printf("三人中年龄居中者姓名为：%s,年龄为：%d", stud[i].name, stud[i].b);
+		if (stud[i].b == a[1])		printf("三人中年龄居中者姓名为：%s,年龄为：%d\n", stud[i].name, stud[i].b);
 	}
 	return 0;
 }
